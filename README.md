@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sasha, a student at CTU in Prague, specializing in Applied Informatics. I’m also a student at 42 Prague, where I’m currently diving into the C programming language as part of my Curriculum Core.<br><br>💡 I'm improving my understanding of algorithms and data structures. I enjoy working on projects that blend logic with creativity.<br><br>📚 I’m always eager to learn and grow as a developer, whether through open-source contributions, collaborations, or experimenting with new technologies.
+👋 Hi there! I'm Sasha, a student at CTU in Prague, specializing in Applied Informatics. I’m also a student at 42 Prague, where I’m facing challanges in the C programming language as part of my Curriculum Core.<br><br>💡 I'm improving my understanding of algorithms and data structures. I enjoy working on projects that blend logic with creativity.<br><br>📚 I’m always eager to learn and grow as a developer, whether through open-source contributions, collaborations, or experimenting with new technologies.
 
 
 ## 🌐 Socials:
